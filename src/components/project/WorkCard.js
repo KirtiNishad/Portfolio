@@ -27,7 +27,7 @@ const WorkCard = () => {
                         </p>
                         <div className='pro-btns'>
                             <a href='#under_progress' target='_blank' rel="noreferrer" className='btn'>View</a>
-                            <a href='https://github.com/KirtiNishad/Persoanl-Portfolio' target='_blank' rel="noreferrer" className='btn'>Source</a>
+                            <a href='https://github.com/KirtiNishad/Portfolio' target='_blank' rel="noreferrer" className='btn'>Source</a>
 
                         </div>
                     </div>
