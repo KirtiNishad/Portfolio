@@ -1,4 +1,4 @@
-import "./OtherCardStyle.css"
+import "./SkillCardStyle.css"
 
 import React from 'react'
 
@@ -64,7 +64,7 @@ const OtherCard = () => {
                         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="gfg" width="90px" height="90px"></img>
                     </a>
 
-                    <a href="https://github.com/KirtiNishad" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/KirtiNishad?tab=repositories" target="_blank" rel="noreferrer">
                         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="90px" width="90px" alt="github"></img>
                     </a>
 

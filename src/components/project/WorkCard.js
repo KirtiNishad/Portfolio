@@ -1,8 +1,8 @@
 import React from 'react'
 import './WorkCardStyles.css'
-import quiz from '../assets/quiz.jpg'
-import react from '../assets/react.jpg'
-import ecommerce from '../assets/e_commerce.jpg'
+import quiz from '../../assets/quiz.jpg'
+import react from '../../assets/react.jpg'
+import ecommerce from '../../assets/e_commerce.jpg'
 
 const WorkCard = () => {
     return (

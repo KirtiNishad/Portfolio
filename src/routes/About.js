@@ -1,8 +1,8 @@
 import React from 'react'
-import Navbar from "../components/Navbar"
-import Footer  from '../components/Footer'
-import AboutImg from '../components/AboutImg'
-// import AboutContent from '../components/AboutContent'
+import Navbar from "../components/navbar/Navbar"
+import Footer  from '../components/footer/Footer'
+import AboutImg from '../components/about/AboutImg'
+import AboutContent from '../components/about/AboutContent'
 
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
     <div>
       <Navbar/>
       <AboutImg/>
-      {/* <AboutContent/> */}
+      <AboutContent/>
       <Footer/>
     </div>
   )

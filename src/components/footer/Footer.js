@@ -1,7 +1,7 @@
 import "./FooterStyle.css"
 
 import React from 'react'
-import  { FaHome, FaPhone, FaMailBulk, FaLinkedin } from "react-icons/fa"
+import  { FaHome, FaMailBulk, FaLinkedin } from "react-icons/fa"
 
 const Footer = () => {
   return (
@@ -15,12 +15,6 @@ const Footer = () => {
                     </p>
                 </div>
 
-                <div className="phone">
-                    <h4>
-                        <FaPhone size={20} style={{color: "#fff", marginRight: "2rem"}} />
-                        7992027206
-                    </h4>
-                </div>
                 <div className="email">
                     <h4>
                         <FaMailBulk size={20} style={{color: "#fff", marginRight: "2rem"}} />

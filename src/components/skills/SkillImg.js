@@ -1,7 +1,7 @@
-import "./OtherStuffImgStyle.css"
+import "./SkillImgStyle.css"
 import React from 'react'
 
-const OtherStuffImg = () => {
+const SkillImg = () => {
   return (
     <div>
         <div className="other-img">
@@ -13,4 +13,4 @@ const OtherStuffImg = () => {
   )
 }
 
-export default OtherStuffImg
+export default SkillImg

@@ -1,8 +1,8 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
-import ProjectImg from '../components/ProjectImg'
-import Footer from '../components/Footer'
-import WorkCard from '../components/WorkCard'
+import Navbar from '../components/navbar/Navbar'
+import ProjectImg from '../components/project/ProjectImg'
+import Footer from '../components/footer/Footer'
+import WorkCard from '../components/project/WorkCard'
 
 const Project = () => {
   return (
